@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-718-feat-contract-campaign-insurance-pool-sponsors",
+    "feat/issue-919-feat-contract-campaign-insurance-pool-protect",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-718-feat-contract-campaign-insurance-pool-sponsors": "main",
+    "feat/issue-919-feat-contract-campaign-insurance-pool-protect": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-718-feat-contract-campaign-insurance-pool-sponsors",
+    "feat/issue-919-feat-contract-campaign-insurance-pool-protect",
+    "origin"
+  ]
+}
